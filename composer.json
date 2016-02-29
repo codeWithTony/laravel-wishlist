@@ -1,0 +1,27 @@
+{
+  "name": "codewithtony/laravel-wishlist",
+  "description": "Wish List for Laravel 5, Bookmarks, etc.",
+  "keywords": [ "Laravel 5", "Wish List", "Laravel Wish List", "Wish List Manager", "Bookmarks", "Laravel Bookmarks", "Bookmark Manager" ],
+  "homepage": "https://github.com/codewithtony/wishlist",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Tony.",
+      "email": "tony@codewithtony.com",
+      "homepage": "http://www.codewithtony.com"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/codewithtony/laravel-wishlist/issues"
+  },
+  "require": {
+    "php": ">=5.4.0",
+    "laravel/framework": "5.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Tony\\WishList\\": "src/Tony/WishList/"
+    }
+  }
+}
