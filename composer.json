@@ -21,7 +21,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Tony\\WishList\\": "src/Tony/WishList/"
+      "Tony\\Wishlist\\": "src/Tony/Wishlist/"
     }
   }
 }

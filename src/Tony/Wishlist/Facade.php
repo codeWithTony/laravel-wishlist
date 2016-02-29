@@ -1,4 +1,4 @@
-<?php namespace Tony\WishList;
+<?php namespace Tony\Wishlist;
 
 class Facade extends \Illuminate\Support\Facades\Facade {
 	/**

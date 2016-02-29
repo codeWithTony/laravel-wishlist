@@ -1,4 +1,4 @@
-<?php namespace Tony\WishList;
+<?php namespace Tony\Wishlist;
 
 class ServiceProvider extends \Illuminate\Support\ServiceProvider
 {
